@@ -1,9 +1,9 @@
 {
-  "name": "medcof-tec",
+  "name": "medcofrmaiscm",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://medicinajvs.github.io/medcoftec/",
+  "homepage": "https://medicinajvs.github.io/medcofrmaiscm/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
