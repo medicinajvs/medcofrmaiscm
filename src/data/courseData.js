@@ -11,16 +11,15 @@ export const courseData = [
         title: "Onboarding Medcof",
         imageUrl: "https://images.unsplash.com/photo-1517649763962-0c623066013b?auto=format&fit=crop&q=80&w=400",
         lessons: [
-          { id: 1, title: "Onboarding: Nossa História e Método", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1PrcFCOdFZI1Q3wTzfxmZV0KfIsiKAOit/view?usp=sharing" },
-          { id: 2, title: "Onboarding: Apresentação da Plataforma Medcof Plus", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1rm_Vp2V7-ySock9ES7M9kRnXKa1niVIV/view?usp=sharing" },
-          { id: 3, title: "Onboarding: Apresentação QBank", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1mC5OEeUus_nxys6ZNTArrLT_eOrHL9PF/view?usp=sharing" },
-          { id: 4, title: "Onboarding - Apresentação R+", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1X8Wo1olvYvfUitS3RuH4gmsJZgYglxVV/view?usp=sharing" }
+          { id: 1, title: "Aula 01 - Onboarding: Nossa História e Método", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1PrcFCOdFZI1Q3wTzfxmZV0KfIsiKAOit/view?usp=sharing" },
+          { id: 2, title: "Aula 02 - Onboarding: Apresentação da Plataforma Medcof Plus", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1rm_Vp2V7-ySock9ES7M9kRnXKa1niVIV/view?usp=sharing" },
+          { id: 3, title: "Aula 03 - Onboarding: Apresentação QBank", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1mC5OEeUus_nxys6ZNTArrLT_eOrHL9PF/view?usp=sharing" },
+          { id: 4, title: "Aula 04 - Onboarding: Apresentação R+", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1X8Wo1olvYvfUitS3RuH4gmsJZgYglxVV/view?usp=sharing" }
         ],
         materials: []
       }
     ]
   },
-
   // --- MÓDULO 2: NEUROLOGIA ---
   {
     id: 2,
@@ -908,7 +907,6 @@ export const courseData = [
       }
     ]
   },
-
   // --- MÓDULO 9: EPIDEMIOLOGIA ---
   {
     id: 9,
@@ -1262,6 +1260,7 @@ export const courseData = [
       }
     ]
   },
+
   // --- MÓDULO 11: ENDOCRINOLOGIA ---
   {
     id: 11,
@@ -1619,12 +1618,12 @@ export const courseData = [
         title: "Teste diagnósticos exercícios",
         imageUrl: "https://images.unsplash.com/photo-1579684453423-f84349ca60df?auto=format&fit=crop&q=80&w=400",
         lessons: [
-          { id: 1, title: "Teste diagnósticos exercícios", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1-zmFMKJWTACVbdBCnXfWzdD-yAQJTlvX/view?usp=sharing" },
-          { id: 2, title: "Teste diagnósticos exercícios (Parte 2)", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/16PpU1uqtZq2X6BKsp8VLrYeM8nWrGbUN/view?usp=sharing" }
+          { id: 1, title: "Aula 01 - Teste diagnósticos exercícios", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1-zmFMKJWTACVbdBCnXfWzdD-yAQJTlvX/view?usp=sharing" },
+          { id: 2, title: "Aula 02 - Teste diagnósticos exercícios (Parte 2)", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/16PpU1uqtZq2X6BKsp8VLrYeM8nWrGbUN/view?usp=sharing" }
         ],
         materials: [
-          { title: "PDF de slides - Teste diagnosticos exercicios.pdf", pdfLink: "https://drive.google.com/file/d/1M4tOjXXP5o-1uaR9ET_eaB37t6d_gpmt/view?usp=sharing" },
-          { title: "Ficha Resumo - Teste diagnosticos exercicios.pdf", pdfLink: "https://drive.google.com/file/d/1N4FX_AgQQXIxIPLbXT9Kc2jt2b2jWJwt/view?usp=sharing" }
+          { title: "PDF de Slides - Teste Diagnósticos Exercícios", pdfLink: "https://drive.google.com/file/d/1M4tOjXXP5o-1uaR9ET_eaB37t6d_gpmt/view?usp=sharing" },
+          { title: "Ficha Resumo - Teste Diagnósticos Exercícios", pdfLink: "https://drive.google.com/file/d/1N4FX_AgQQXIxIPLbXT9Kc2jt2b2jWJwt/view?usp=sharing" }
         ]
       }
     ]
@@ -1794,7 +1793,6 @@ export const courseData = [
       }
     ]
   },
-
   // --- MÓDULO 14: NEFROLOGIA ---
   {
     id: 14,
@@ -1812,7 +1810,7 @@ export const courseData = [
         ],
         materials: [
           { title: "Ficha Resumo - Gasometria Arterial I", pdfLink: "https://drive.google.com/file/d/1mIUpmP2mZWzjTsB8iX2_3yKUoD8uaKM2/view?usp=sharing" },
-          { title: "Errata - Ficha Resumo: Gasometria Arterial I", pdfLink: "https://drive.google.com/file/d/10ka12dHKqpR8SIgJKt6m6Fctc3rqz262/view?usp=sharing" },
+          { title: "Errata - Gasometria Arterial I", pdfLink: "https://drive.google.com/file/d/10ka12dHKqpR8SIgJKt6m6Fctc3rqz262/view?usp=sharing" },
           { title: "PDF de Slides - Gasometria Arterial I", pdfLink: "https://drive.google.com/file/d/1pY090lojECS0YYOq7K1h2HMp_lTDdVNv/view?usp=sharing" }
         ]
       },
@@ -1855,7 +1853,7 @@ export const courseData = [
         ],
         materials: [
           { title: "Ficha Resumo - Distúrbios do Potássio", pdfLink: "https://drive.google.com/file/d/1zMyACK2YAGi9vZpEv8aeHSH4xet6MhWS/view?usp=sharing" },
-          { title: "PDF de Slides - Distúrbios do Potássio", pdfLink: "https://drive.google.com/file/d/1q9r5R8ZbdFFqyA-M4xCeD7RPE0Y2XAZa/view?usp=sharing" }
+          { title: "PDF de Slides - Distúrbios do Potássio", pdfLink: "https://drive.google.com/file/d/1qr9r5R8ZbdFFqyA-M4xCeD7RPE0Y2XAZa/view?usp=sharing" }
         ]
       },
       {
@@ -1882,8 +1880,8 @@ export const courseData = [
           { id: 2, title: "Aula 02 - Injúria Renal Aguda (IRA): Parte I", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/163WvG3mkElwu9g7djTuYKEfHdq-SotuD/view?usp=sharing" }
         ],
         materials: [
-          { title: "Ficha Resumo - Injuria Renal Aguda (IRA): Parte I", pdfLink: "https://drive.google.com/file/d/1t0-C0B35Exp66bQiuNRlF94Ej4Q3fxFX/view?usp=sharing" },
-          { title: "PDF de Slides - Injuria Renal Aguda (IRA): Parte I", pdfLink: "https://drive.google.com/file/d/19yiaNdER8lnPj-p3oNwoU71oWzsTfy6y/view?usp=sharing" }
+          { title: "Ficha Resumo - Injúria Renal Aguda (IRA): Parte I", pdfLink: "https://drive.google.com/file/d/1t0-C0B35Exp66bQiuNRlF94Ej4Q3fxFX/view?usp=sharing" },
+          { title: "PDF de Slides - Injúria Renal Aguda (IRA): Parte I", pdfLink: "https://drive.google.com/file/d/19yiaNdER8lnPj-p3oNwoU71oWzsTfy6y/view?usp=sharing" }
         ]
       },
       {
@@ -1896,8 +1894,8 @@ export const courseData = [
           { id: 2, title: "Aula 02 - Injúria Renal Aguda (IRA): Parte II", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1C6UERorgVkVcum2ya861HSEzevEsskXX/view?usp=sharing" }
         ],
         materials: [
-          { title: "Ficha Resumo - Injuria Renal Aguda (IRA): Parte II", pdfLink: "https://drive.google.com/file/d/1sWNyGvIstITbQR_8xTlaf2P96ZEpyMAG/view?usp=sharing" },
-          { title: "PDF de Slides - Injuria Renal Aguda (IRA): Parte II", pdfLink: "https://drive.google.com/file/d/1cZolUpdMlgMfSK59PqfCrBBkspzoec1T/view?usp=sharing" }
+          { title: "Ficha Resumo - Injúria Renal Aguda (IRA): Parte II", pdfLink: "https://drive.google.com/file/d/1sWNyGvIstITbQR_8xTlaf2P96ZEpyMAG/view?usp=sharing" },
+          { title: "PDF de Slides - Injúria Renal Aguda (IRA): Parte II", pdfLink: "https://drive.google.com/file/d/1cZolUpdMlgMfSK59PqfCrBBkspzoec1T/view?usp=sharing" }
         ]
       },
       {
@@ -1966,8 +1964,8 @@ export const courseData = [
           { id: 2, title: "Aula 02 - Distúrbios do Cálcio", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1m2iWRu6ru0nPBxoUTVcOFPoMsS4adHwy/view?usp=sharing" }
         ],
         materials: [
-          { title: "Ficha Resumo - Distúrbios do Calcio", pdfLink: "https://drive.google.com/file/d/1xhSVSuI61CdhjtT4l1FGdqozKFZIUpg6/view?usp=sharing" },
-          { title: "PDF de Slides - Distúrbios do Calcio", pdfLink: "https://drive.google.com/file/d/1Nl_J3yfebV8SKgTs7l8_YIq5k3J4PGDH/view?usp=sharing" }
+          { title: "Ficha Resumo - Distúrbios do Cálcio", pdfLink: "https://drive.google.com/file/d/1xhSVSuI61CdhjtT4l1FGdqozKFZIUpg6/view?usp=sharing" },
+          { title: "PDF de Slides - Distúrbios do Cálcio", pdfLink: "https://drive.google.com/file/d/1Nl_J3yfebV8SKgTs7l8_YIq5k3J4PGDH/view?usp=sharing" }
         ]
       },
       {
@@ -1990,13 +1988,14 @@ export const courseData = [
         title: "Discussão R+ Nefrologia - Módulo 2",
         imageUrl: "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&q=80&w=400",
         lessons: [
-          { id: 1, title: "Discussão R+ Nefrologia - Módulo 2_COFEXPRESS", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/142SvfeYxhJLn0MxelkAl9NZMAkhaStp_/view?usp=sharing" },
-          { id: 2, title: "Discussão R+ Nefrologia - Módulo 2", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/14EVNZDWG5G8LONlHbsiSTeSr7KtRea-J/view?usp=sharing" }
+          { id: 1, title: "Aula 01 - CofExpress: Discussão R+ Nefrologia - Módulo 2", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/142SvfeYxhJLn0MxelkAl9NZMAkhaStp_/view?usp=sharing" },
+          { id: 2, title: "Aula 02 - Discussão R+ Nefrologia - Módulo 2", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/14EVNZDWG5G8LONlHbsiSTeSr7KtRea-J/view?usp=sharing" }
         ],
         materials: []
       }
     ]
   },
+
   // --- MÓDULO 15: ONCOLOGIA ---
   {
     id: 15,
@@ -2049,14 +2048,14 @@ export const courseData = [
       {
         id: 4,
         label: "Sub-Módulo 4",
-        title: "Efeitos colaterais de quimioterápicos",
+        title: "Efeitos Colaterais de Quimioterápicos",
         imageUrl: "https://images.unsplash.com/photo-1581093458791-9f3c3900df4b?auto=format&fit=crop&q=80&w=400",
         lessons: [
-          { id: 1, title: "Efeitos colaterais de quimioterápicos", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1JyAPgJs4HCfI4bMTGZg9DFg9wUqafNgf/view?usp=sharing" },
-          { id: 2, title: "Efeitos colaterais de quimioterápicos_COFEXPRESS", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1KSsFZqk_2ecSgDWkdYXcDwK22Bgx4xq4/view?usp=sharing" }
+          { id: 1, title: "Aula 01 - Efeitos Colaterais de Quimioterápicos", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1JyAPgJs4HCfI4bMTGZg9DFg9wUqafNgf/view?usp=sharing" },
+          { id: 2, title: "Aula 02 - CofExpress: Efeitos Colaterais de Quimioterápicos", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1KSsFZqk_2ecSgDWkdYXcDwK22Bgx4xq4/view?usp=sharing" }
         ],
         materials: [
-          { title: "PDF de slides - Efeitos colaterais de quimioterapicos.pdf", pdfLink: "https://drive.google.com/file/d/1kJFN-Oh_3i07AGtRurVay7WK0w9kQ-O5/view?usp=sharing" }
+          { title: "PDF de Slides - Efeitos Colaterais de Quimioterápicos", pdfLink: "https://drive.google.com/file/d/1kJFN-Oh_3i07AGtRurVay7WK0w9kQ-O5/view?usp=sharing" }
         ]
       }
     ]
@@ -2216,7 +2215,7 @@ export const courseData = [
         imageUrl: "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?auto=format&fit=crop&q=80&w=400",
         lessons: [],
         materials: [
-          { title: "PDF de slides - Discussao R+_ Geriatria - Modulo 2.pdf", pdfLink: "https://drive.google.com/file/d/1fr-z1z88NkwA8eF_T9oupOGOJ5NlqHj1/view?usp=sharing" }
+          { title: "PDF de Slides - Discussão R+ Geriatria - Módulo 2", pdfLink: "https://drive.google.com/file/d/1fr-z1z88NkwA8eF_T9oupOGOJ5NlqHj1/view?usp=sharing" }
         ]
       }
     ]
@@ -2388,16 +2387,15 @@ export const courseData = [
         title: "Discussão R+ Pneumologia - Módulo 2",
         imageUrl: "https://images.unsplash.com/photo-1628595351029-c2bf17511435?auto=format&fit=crop&q=80&w=400",
         lessons: [
-          { id: 1, title: "Discussão R+ Pneumologia - Módulo 2", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1GqO3GzhU0APlvBGO2fgOgnJSE6mRQxMd/view?usp=sharing" },
-          { id: 2, title: "Discussão R+ Pneumologia - Módulo 2_COFEXPRESS", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1VW4lt15rGIhzohBIwn25IRpjxceEwuV_/view?usp=sharing" }
+          { id: 1, title: "Aula 01 - Discussão R+ Pneumologia - Módulo 2", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1GqO3GzhU0APlvBGO2fgOgnJSE6mRQxMd/view?usp=sharing" },
+          { id: 2, title: "Aula 02 - CofExpress: Discussão R+ Pneumologia - Módulo 2", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1VW4lt15rGIhzohBIwn25IRpjxceEwuV_/view?usp=sharing" }
         ],
         materials: [
-          { title: "PDF de slides - Discussao R+_ Pneumologia - Modulo 2.pdf", pdfLink: "https://www.google.com/search?q=https://drive.google.com/file/d/1zFoVkFJ1wf7Xx300eLO3AIKsmMzuAgDz/view%3Fusp%3Dsharing" }
+          { title: "PDF de Slides - Discussão R+ Pneumologia - Módulo 2", pdfLink: "https://www.google.com/search?q=https://drive.google.com/file/d/1zFoVkFJ1wf7Xx300eLO3AIKsmMzuAgDz/view%3Fusp%3Dsharing" }
         ]
       }
     ]
   },
-
   // --- MÓDULO 18: HEMATOLOGIA ---
   {
     id: 18,
@@ -2493,10 +2491,10 @@ export const courseData = [
         title: "Discussão R+ Hematologia - Módulo 1",
         imageUrl: "https://images.unsplash.com/photo-1576091160550-21733e99dbb9?auto=format&fit=crop&q=80&w=400",
         lessons: [
-          { id: 1, title: "Discussão R+ Hematologia - Módulo 1", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1L65SJSa_KsB2vFCA4Ud3mlF6YfSHujca/view?usp=sharing" }
+          { id: 1, title: "Aula 01 - Discussão R+ Hematologia - Módulo 1", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1L65SJSa_KsB2vFCA4Ud3mlF6YfSHujca/view?usp=sharing" }
         ],
         materials: [
-          { title: "PDF de slides - Discussao R+_ Hematologia - Modulo 1.pdf", pdfLink: "https://drive.google.com/file/d/1MBUgVch3M2arXJKKwKN6CeGcngyXxtFp/view?usp=sharing" }
+          { title: "PDF de Slides - Discussão R+ Hematologia - Módulo 1", pdfLink: "https://drive.google.com/file/d/1MBUgVch3M2arXJKKwKN6CeGcngyXxtFp/view?usp=sharing" }
         ]
       },
       {
@@ -2574,10 +2572,10 @@ export const courseData = [
         title: "Discussão R+ Hematologia - Módulo 2",
         imageUrl: "https://images.unsplash.com/photo-1551076805-e1869033e561?auto=format&fit=crop&q=80&w=400",
         lessons: [
-          { id: 1, title: "Discussão R+ Hematologia - Módulo 2", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1D580iaskFvjzxrwAaD4Ol88zAfoxC4vT/view?usp=sharing" }
+          { id: 1, title: "Aula 01 - Discussão R+ Hematologia - Módulo 2", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1D580iaskFvjzxrwAaD4Ol88zAfoxC4vT/view?usp=sharing" }
         ],
         materials: [
-          { title: "PDF de slides - Discussao R+_ Hematologia - Modulo 2.pdf", pdfLink: "https://drive.google.com/file/d/19up1gITulgIo_w7qlRmBe1sd_oNVQd61/view?usp=sharing" }
+          { title: "PDF de Slides - Discussão R+ Hematologia - Módulo 2", pdfLink: "https://drive.google.com/file/d/19up1gITulgIo_w7qlRmBe1sd_oNVQd61/view?usp=sharing" }
         ]
       },
       {
@@ -2644,10 +2642,10 @@ export const courseData = [
         title: "Discussão R+ Hematologia - Módulo 3",
         imageUrl: "https://images.unsplash.com/photo-1603398938378-e54eab446dde?auto=format&fit=crop&q=80&w=400",
         lessons: [
-          { id: 1, title: "Discussão R+ Hematologia - Módulo 3", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1WBk73aT0hJ_eiW085dzA47u-yHBNbc5N/view?usp=sharing" }
+          { id: 1, title: "Aula 01 - Discussão R+ Hematologia - Módulo 3", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1WBk73aT0hJ_eiW085dzA47u-yHBNbc5N/view?usp=sharing" }
         ],
         materials: [
-          { title: "PDF de slides - Discussao R+_ Hematologia - Modulo 3.pdf", pdfLink: "https://www.google.com/search?q=https://drive.google.com/file/d/1tyohGQtzOhc_pxKfhL_Q-8iZolLch3GH/view%3Fusp%3Dsharing" }
+          { title: "PDF de Slides - Discussão R+ Hematologia - Módulo 3", pdfLink: "https://www.google.com/search?q=https://drive.google.com/file/d/1tyohGQtzOhc_pxKfhL_Q-8iZolLch3GH/view%3Fusp%3Dsharing" }
         ]
       }
     ]
@@ -2665,16 +2663,17 @@ export const courseData = [
         title: "Fisiologia e Anatomia da Adrenal",
         imageUrl: "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?auto=format&fit=crop&q=80&w=400",
         lessons: [
-          { id: 1, title: "Fisiologia e Anatomia da Adrenal - CofExpress", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1lE07PqX3vx-pEOO8EG7OpqeVVF4ix0cC/view?usp=sharing" },
-          { id: 2, title: "Fisiologia e Anatomia da Adrenal", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1wcE1ycyDhKqqO7kvdnvqKQ8Snk_4idfZ/view?usp=sharing" }
+          { id: 1, title: "Aula 01 - CofExpress: Fisiologia e Anatomia da Adrenal", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1lE07PqX3vx-pEOO8EG7OpqeVVF4ix0cC/view?usp=sharing" },
+          { id: 2, title: "Aula 02 - Fisiologia e Anatomia da Adrenal", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1wcE1ycyDhKqqO7kvdnvqKQ8Snk_4idfZ/view?usp=sharing" }
         ],
         materials: [
-          { title: "PDF de slides - Fisiologia e Anatomia da Adrenal.pdf", pdfLink: "https://drive.google.com/file/d/1jcDZkeAg5DBRfkQ1RN3UZOPGujWUSgcT/view?usp=sharing" },
-          { title: "Ficha Resumo - Fisiologia e Anatomia da Adrenal.pdf", pdfLink: "https://www.google.com/search?q=https://drive.google.com/file/d/1zJ3lMnbFdFoA6T8fSi6QZ8ztd3kWYfbQ/view%3Fusp%3Dsharing" }
+          { title: "PDF de Slides - Fisiologia e Anatomia da Adrenal", pdfLink: "https://drive.google.com/file/d/1jcDZkeAg5DBRfkQ1RN3UZOPGujWUSgcT/view?usp=sharing" },
+          { title: "Ficha Resumo - Fisiologia e Anatomia da Adrenal", pdfLink: "https://www.google.com/search?q=https://drive.google.com/file/d/1zJ3lMnbFdFoA6T8fSi6QZ8ztd3kWYfbQ/view%3Fusp%3Dsharing" }
         ]
       }
     ]
   },
+
   // --- MÓDULO 20: DERMATOLOGIA ---
   {
     id: 20,
@@ -2719,8 +2718,8 @@ export const courseData = [
           { id: 2, title: "Aula 02 - CofExpress: Dermatoses Bolhosas", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1AAapKPVNXJi78RqvESV0H6Uxwxf2hqLJ/view?usp=sharing" }
         ],
         materials: [
-          { title: "PDF de slides - Dermatoses Bolhosas.pdf", pdfLink: "https://drive.google.com/file/d/1NzN52ty0tjZKF2-fWZG15T4FORHbK307/view?usp=sharing" },
-          { title: "Ficha Resumo - Dermatoses Bolhosas.pdf", pdfLink: "https://drive.google.com/file/d/1iVGW7xmpD4yxiBmQKTAlIj83QVnhgdE3/view?usp=sharing" }
+          { title: "PDF de Slides - Dermatoses Bolhosas", pdfLink: "https://drive.google.com/file/d/1NzN52ty0tjZKF2-fWZG15T4FORHbK307/view?usp=sharing" },
+          { title: "Ficha Resumo - Dermatoses Bolhosas", pdfLink: "https://drive.google.com/file/d/1iVGW7xmpD4yxiBmQKTAlIj83QVnhgdE3/view?usp=sharing" }
         ]
       },
       {
@@ -2733,7 +2732,7 @@ export const courseData = [
           { id: 2, title: "Aula 02 - Psoríase", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1YE_yiT5fPpYDxzBxTlC-61GJe8aEgw7x/view?usp=sharing" }
         ],
         materials: [
-          { title: "PDF de slides - Psoriase.pdf", pdfLink: "https://www.google.com/search?q=https://drive.google.com/file/d/1u-XIW41tZe3HYHbt_hw5dnM73SHMmhui/view%3Fusp%3Dsharing" }
+          { title: "PDF de Slides - Psoríase", pdfLink: "https://www.google.com/search?q=https://drive.google.com/file/d/1u-XIW41tZe3HYHbt_hw5dnM73SHMmhui/view%3Fusp%3Dsharing" }
         ]
       }
     ]
@@ -2878,29 +2877,29 @@ export const courseData = [
       {
         id: 1,
         label: "Sub-Módulo 1",
-        title: "Oftamologia em doenças clínicas - parte I",
+        title: "Oftalmologia em doenças clínicas - parte I",
         imageUrl: "https://images.unsplash.com/photo-1581093458791-9f3c3900df4b?auto=format&fit=crop&q=80&w=400",
         lessons: [
-          { id: 1, title: "Aula 01 - Oftamologia em doenças clínicas: parte I", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1afuQwQzrcNPBUIBXBG1GTaBgEaVEAH24/view?usp=drive_link" },
-          { id: 2, title: "Aula 02 - CofExpress: Oftamologia em doenças clínicas - parte I", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1-sOk9Ji7Qlf6qsvPoC0wxKez83F5qBM1/view?usp=sharing" }
+          { id: 1, title: "Aula 01 - Oftalmologia em Doenças Clínicas: Parte I", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1afuQwQzrcNPBUIBXBG1GTaBgEaVEAH24/view?usp=drive_link" },
+          { id: 2, title: "Aula 02 - CofExpress: Oftalmologia em Doenças Clínicas - Parte I", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1-sOk9Ji7Qlf6qsvPoC0wxKez83F5qBM1/view?usp=sharing" }
         ],
         materials: [
-          { title: "PDF de slides - Oftamologia em doencas clinicas - parte I.pdf", pdfLink: "https://drive.google.com/file/d/1JYctr7q_hvV_IDCRqFN1GpNY6NC2pd-I/view?usp=sharing" },
-          { title: "Ficha resumo - Oftamologia em doencas clinicas - parte I.pdf", pdfLink: "https://drive.google.com/file/d/1bDcOPr8M7u0jZ7EH770K-pRxA3Z-ffzY/view?usp=sharing" }
+          { title: "PDF de Slides - Oftalmologia em Doenças Clínicas - Parte I", pdfLink: "https://drive.google.com/file/d/1JYctr7q_hvV_IDCRqFN1GpNY6NC2pd-I/view?usp=sharing" },
+          { title: "Ficha Resumo - Oftalmologia em Doenças Clínicas - Parte I", pdfLink: "https://drive.google.com/file/d/1bDcOPr8M7u0jZ7EH770K-pRxA3Z-ffzY/view?usp=sharing" }
         ]
       },
       {
         id: 2,
         label: "Sub-Módulo 2",
-        title: "Oftamologia em doenças clínicas - parte II",
+        title: "Oftalmologia em doenças clínicas - parte II",
         imageUrl: "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?auto=format&fit=crop&q=80&w=400",
         lessons: [
-          { id: 1, title: "Aula 01 - Oftamologia em doenças clínicas - parte II", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1rIwYNNoVl9uI3fZ66g7zidX6ky7hWjf6/view?usp=drive_link" },
-          { id: 2, title: "Aula 02 - CofExpress: Oftamologia em doenças clínicas - parte II_COFEXPRESS", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1a8U_I5wuA53v3K7WW4ZTfPe4_J1nJTvv/view?usp=drive_link" }
+          { id: 1, title: "Aula 01 - Oftalmologia em Doenças Clínicas - Parte II", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1rIwYNNoVl9uI3fZ66g7zidX6ky7hWjf6/view?usp=drive_link" },
+          { id: 2, title: "Aula 02 - CofExpress: Oftalmologia em Doenças Clínicas - Parte II", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1a8U_I5wuA53v3K7WW4ZTfPe4_J1nJTvv/view?usp=drive_link" }
         ],
         materials: [
-          { title: "PDF de slides - Oftamologia em doencas clinicas - parte II.pdf", pdfLink: "https://drive.google.com/file/d/1d9SYevpkkcqbcrfMPr-xkVk36JZCBUrM/view?usp=drive_link" },
-          { title: "Ficha resumo - Oftamologia em doencas clinicas - parte II.pdf", pdfLink: "https://drive.google.com/file/d/1sE_MzBeUxU5dwAm6glBOhEaj6wfZOnVL/view?usp=drive_link" }
+          { title: "PDF de Slides - Oftalmologia em Doenças Clínicas - Parte II", pdfLink: "https://drive.google.com/file/d/1dSYevpkkcqbcrfMPr-xkVk36JZCBUrM/view?usp=drive_link" },
+          { title: "Ficha Resumo - Oftalmologia em Doenças Clínicas - Parte II", pdfLink: "https://drive.google.com/file/d/1sE_MzBeUxU5dwAm6glBOhEaj6wfZOnVL/view?usp=drive_link" }
         ]
       }
     ]
