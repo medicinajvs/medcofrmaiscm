@@ -2382,7 +2382,7 @@ export const courseData = [
         ]
       },
       {
-        id: 13,
+        id: 12,
         label: "Sub-Módulo 13",
         title: "Discussão R+ Pneumologia - Módulo 2",
         imageUrl: "https://images.unsplash.com/photo-1628595351029-c2bf17511435?auto=format&fit=crop&q=80&w=400",
@@ -2834,8 +2834,8 @@ export const courseData = [
   // --- MÓDULO 22: OTORRINOLARINGOLOGIA ---
   {
     id: 22,
-    title: "Módulo 25 - Otorrinolaringologia",
-    label: "Módulo 25",
+    title: "Módulo 22 - Otorrinolaringologia",
+    label: "Módulo 22",
     subModules: [
       {
         id: 1,
